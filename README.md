@@ -55,3 +55,20 @@ O jogo conta com sistemas dinâmicos de **barra de vida, energia, XP e moedas co
 2. Clona este repositório:
    ```bash
    git clone [https://github.com/LayzaEmmannuelle/haunted-by-shadows.git](https://github.com/LayzaEmmannuelle/haunted-by-shadows.git)
+
+
+---
+
+## 👥 Autores / Contribuidores
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/LayzaEmmannuelle">
+        <img src="https://github.com/LayzaEmmannuelle.png" width="100px;" alt="Foto da Layza no GitHub"/><br>
+        <sub><b>Layza Emmanuelle</b></sub>
+      </a><br>
+      <a href="https://www.linkedin.com/in/layza-emmanuelle-costa-862b78377" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    </td>
+  </tr>
+</table>
