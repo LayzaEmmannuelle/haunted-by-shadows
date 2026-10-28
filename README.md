@@ -24,7 +24,7 @@ O jogo conta com sistemas dinâmicos de **barra de vida, energia, XP e moedas co
 
 ### 1. Tela Inicial
 <p align="center">
-  <img width="1603" height="977" alt="Tela Inicial" src="https://github.com/user-attachments/assets/e17457f-c0dc-4d3a-870e-f5260c61a0b9" />
+  <img width="1597" height="974" alt="image" src="https://github.com/user-attachments/assets/2d265be2-e074-48cc-802e-9851c8bfd496" />
 </p>
 
 ### 2. Interface de Status (Vida, XP, Energia e Moedas)
